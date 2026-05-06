@@ -5,7 +5,7 @@
 ## Basic
 - [x] C01 - Hello World Program
 - [x] C02 - Print Your Own Name
-- [ ] C03 - Print an Integer Entered By the User
+- [x] C03 - Print an Integer Entered By the User
 - [ ] C04 - Add Two Numbers
 - [ ] C05 - Check Whether a Number is Prime or Not
 - [ ] C06 - Multiply Two Floating-Point Numbers

@@ -3,7 +3,7 @@
 ### Credits: https://www.geeksforgeeks.org/c/c-programming-examples/
 
 ## Basic
-- [ ] C01 - Hello World Program
+- [x] C01 - Hello World Program
 - [ ] C02 - Print Your Own Name
 - [ ] C03 - Print an Integer Entered By the User
 - [ ] C04 - Add Two Numbers

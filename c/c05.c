@@ -8,8 +8,9 @@ int main(){
         printf("The entered number is not a prime\n");
     else {
         for (int i=1; i<=n; i++){
-            if (n%i==0)
+            if (n%i==0){
                 cnt++;
+            }
             }
             if (cnt>2)
                 printf("The entered number is not a prime\n");

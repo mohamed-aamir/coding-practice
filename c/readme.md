@@ -7,7 +7,7 @@
 - [x] C02 - Print Your Own Name
 - [x] C03 - Print an Integer Entered By the User
 - [x] C04 - Add Two Numbers
-- [ ] C05 - Check Whether a Number is Prime or Not
+- [x] C05 - Check Whether a Number is Prime or Not
 - [ ] C06 - Multiply Two Floating-Point Numbers
 - [ ] C07 - Print the ASCII Value of a Character
 - [ ] C08 - Swap Two Numbers

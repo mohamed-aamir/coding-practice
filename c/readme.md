@@ -9,7 +9,7 @@
 - [x] C04 - Add Two Numbers
 - [x] C05 - Check Whether a Number is Prime or Not
 - [x] C06 - Multiply Two Floating-Point Numbers
-- [ ] C07 - Print the ASCII Value of a Character
+- [x] C07 - Print the ASCII Value of a Character
 - [ ] C08 - Swap Two Numbers
 - [ ] C09 - Calculate Fahrenheit to Celsius
 - [ ] C10 - Find the Size of int, float, double, and char
